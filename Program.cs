@@ -90,7 +90,7 @@ namespace C_sharp_HW6_Structures
                     Console.WriteLine($"Максимальная оценка по {subject[i]} -\t{MaxMark}");
                     Console.WriteLine($"Минимальная оценка по {subject[i]} -\t{MinMark}");
                     MaxMark = 0;
-                    MinMark = 10;
+                    MinMark = 12;
                 
             }
             Console.WriteLine("--------------------------------------");
